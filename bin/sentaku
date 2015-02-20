@@ -1599,7 +1599,7 @@ _sf_main () { # {{{
             7 ) _sf_7;;
             8 ) _sf_8;;
             9 ) _sf_9;;
-            a ) _sf_a;;
+            a ) _sf_j;;
             b ) _sf_b;;
             c ) _sf_c;;
             d ) _sf_d;;
@@ -1608,7 +1608,7 @@ _sf_main () { # {{{
             g ) _sf_g;;
             h ) _sf_h;;
             i ) _sf_i;;
-            j ) _sf_j;;
+            j ) _sf_a;;
             k ) _sf_k;;
             l ) _sf_l;;
             m ) _sf_m;;
